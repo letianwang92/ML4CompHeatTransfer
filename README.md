@@ -1,11 +1,12 @@
 # ML4CompHeatTransfer
 repo for the ML for composite heat transfer project
+only part 2 is currently released
 
 ## Three components
 - Visualize the weight with affine model:  SVM, Logistic Regression 
   The advantage of linear affine model is to link the weight directly to the physical geometry.
   
-- Improve Accuracy with CNN
+- Improve Accuracy with CNN (updated)
   CNN has strong pattern recognition capabilities. A naive CNN has already reached good robustness.
   
 - Generate composite design
